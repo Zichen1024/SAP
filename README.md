@@ -1,6 +1,9 @@
 # SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use
 
-**Venue:** EMNLP 2026
+**Venue:** EMNLP 2026 
+
+**paper:** [SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use](https://arxiv.org/abs/2609.06124)
+
 ---
 
 ## 1. Introduction
