@@ -2,7 +2,9 @@
 
 **Venue:** EMNLP 2026 
 
-**paper:** [SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use](https://arxiv.org/abs/2609.06124)
+**Paper:** [SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use](https://arxiv.org/abs/2609.06124)
+
+**Data & Model:** [HuggingFace](https://huggingface.co/collections/Zichen1024/sap)
 
 ---
 
